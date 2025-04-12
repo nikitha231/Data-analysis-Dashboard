@@ -42,7 +42,18 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
    - **Objective**: Provide a comprehensive view of all key metrics broken down by different outlet types.  
    - **Chart Type**: Matrix card.
 
--
+
+# Process
+---
+
+1. **Verify Data**: Check for any missing values and anomalies in the data, and address them accordingly.  
+2. **Ensure Consistency**: Clean the data to ensure consistency with respect to data types, formats, and values used.  
+3. **Create Pivot Tables**: Develop pivot tables based on the specified requirements.  
+4. **Build Dashboard**: Combine all charts into a single dashboard and apply slicers to make it interactive and dynamic.  
+
+---
+
+
 
 
 
