@@ -5,15 +5,13 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 # DataSet Used
 <a href="https://github.com/nikitha231/Data-analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Blinkit dataset</a>
 # kpi requirements
-1 Total sales: The overall revenue generated from all items sold
-2 Avg sales :the avg revenue per sale
-3 No.of items: count of different items sold
-4 Avg rating :the avg customer rating for items sold
+
+
+1. **Total Sales**: The overall revenue generated from all items sold.  
+2. **Average Sales**: The average revenue per sale.  
+3. **Number of Items**: The count of different items sold.  
+4. **Average Rating**: The average customer rating for the items sold.  
 # Charts Requirements
-Here’s a revised version of your requirements with improved grammar:
-
----
-
 1. **Total Sales by Fat Content**  
    - **Objective**: Analyze the impact of fat content on total sales.  
    - **Additional KPI Metrics**: Assess how other KPIs (average sales, number of items, average rating) vary with fat content.  
