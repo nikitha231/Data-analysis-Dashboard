@@ -1,2 +1,2 @@
 # Blinkit-Data Analysis (Interactive Dashboard Creation Using PowerBI)
-### Dashboard Link:https://app.powerbi.com/links/0mfuNasc1X?ctid=75d50e2a-28e5-42cd-b7f8-12ddd5e57873&pbi_source=linkShare
+### Dashboard Link:https:https://app.powerbi.com/groups/me/reports/46f2e348-227f-46d8-8c1d-bbac6357af79/a978467c8e18371b0b8d?experience=power-bi
