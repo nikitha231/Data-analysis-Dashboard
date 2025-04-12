@@ -51,6 +51,7 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 4. **Build Dashboard**: Combine all Pivot Tables into a single dashboard and apply slicers to make it interactive and dynamic.  
 
 # Publishing Into PowerBi Service
+<img src="https://github.com/nikitha231/Data-analysis-Dashboard/blob/main/Screenshot%202025-04-12%20183748.png>
 
 
 
